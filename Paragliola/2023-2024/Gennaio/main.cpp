@@ -260,7 +260,7 @@ int main ()
  }
  
  
- // Esecuzione sesto punto (vedere funzione riga ):
+ // Esecuzione sesto punto (vedere funzione riga 193):
  int personeConDoppia = contaPersoneConDoppia(lista);
  cout<<"Il totale delle persone con almeno una doppia all'interno del loro nome sono: "<<personeConDoppia<<endl<<endl;
 
